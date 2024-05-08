@@ -8,6 +8,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardopra&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 </div><br>
 
 <div align="center" valign="top"><br>
@@ -21,6 +22,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" alt="linux" height="25" width="25" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon.svg">
 </div><br>
 
 <div align="center">
