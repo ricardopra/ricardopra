@@ -4,7 +4,7 @@
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-<em>Student of the systems analysis and development course at <b>Mackenzie University São Paulo</b> with hard skills in HTML, CSS, Javascript, SQL, Python. Experience in administration, customer support, extensive experience in service areas, encompassing the application of human resources techniques, administration, feedback and interpersonal relationships.</em>
+<em>Student of the systems analysis and development (ADS) course at Mackenzie University São Paulo with hard skills in HTML, CSS, Javascript, SQL, Python. Experience in administration, customer support, extensive experience in service areas.</em>
 
 <div align="center" valign="top"><br>
 <a href="https://github.com/anuraghazra/convoychat">
