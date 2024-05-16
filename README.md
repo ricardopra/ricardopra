@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
   
 
-<p>Student of the systems analysis and development (ADS) course at Mackenzie University São Paulo with hard skills in HTML, CSS, Javascript, SQL, Python and Java. Experience in administration, customer support, extensive experience in service areas.</p>
+
 
 <div align="center" valign="top"><br>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -13,6 +13,8 @@
 </a>
 
 </div><br>
+
+<p>Student of the systems analysis and development (ADS) course at Mackenzie University São Paulo with hard skills in HTML, CSS, Javascript, SQL, Python and Java. Experience in administration, customer support, extensive experience in service areas.</p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
