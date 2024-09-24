@@ -14,7 +14,9 @@
 
 </div><br>
 
-<p>Student of the systems analysis and development (ADS) course at Mackenzie University São Paulo with hard skills in HTML, CSS, Javascript, SQL, Python and Java. Experience in administration, customer support, extensive experience in service areas.</p>
+<p>EN: Student of the systems analysis and development (ADS) course at Mackenzie University São Paulo with hard skills in HTML, CSS, Javascript, SQL, Python and Java. Experience in administration, customer support, extensive experience in service areas.</p>
+
+<p>BR: Aluno do curso de análise e desenvolvimento de sistemas (ADS) da Universidade Mackenzie São Paulo com hard skills em HTML, CSS, Javascript, SQL, Python e Java. Experiência em administração, suporte ao cliente, ampla experiência em áreas de atendimento.</p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
